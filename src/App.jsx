@@ -57,7 +57,7 @@ const projects = [
     role: '导演 / 画面生成',
     year: '毕业设计',
     image: '/media/we-poster.jpg',
-    video: '/media/we-graduation-film.mp4',
+    video: '/media/we-graduation-film-web.mp4',
     duration: '09:48',
     description: 'AI 生成动画短片。由张国熙执导并负责画面生成，在人物关系、空间光影与声音叙事之间建立完整的情绪推进。',
   },
