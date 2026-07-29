@@ -1,0 +1,22 @@
+.lanyard-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: transparent;
+  image-rendering: pixelated;
+  touch-action: pan-y;
+}
+
+.lanyard-wrapper canvas {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  cursor: grab;
+  image-rendering: pixelated;
+  outline: none;
+}
+
+.lanyard-wrapper.is-dragging canvas {
+  cursor: grabbing;
+}

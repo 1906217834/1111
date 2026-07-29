@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1080" viewBox="0 0 720 1080" role="img" aria-labelledby="title desc">
+  <title id="title">张国熙像素导演个人工牌正面</title>
+  <desc id="desc">黑灰色像素工牌，包含姓名、AI设计师、AI漫剧导演及原创像素导演人物。</desc>
+
+  <rect width="720" height="1080" fill="#080a0c"/>
+  <rect x="20" y="20" width="680" height="1040" fill="#11151a" stroke="#f3f1e8" stroke-width="12"/>
+  <path d="M32 32h120v12H44v108H32zm536 0h120v120h-12V44H568zM32 928h12v108h108v12H32zm644 0h12v120H568v-12h108z" fill="#737a80"/>
+
+  <g aria-hidden="true">
+    <rect x="52" y="58" width="32" height="32" fill="#dc3526"/>
+    <rect x="92" y="58" width="32" height="32" fill="#f1cc14"/>
+    <rect x="132" y="58" width="32" height="32" fill="#2e9bd3"/>
+    <rect x="172" y="58" width="32" height="32" fill="#3ba848"/>
+    <rect x="476" y="64" width="32" height="12" fill="#f3f1e8"/>
+    <rect x="516" y="64" width="80" height="12" fill="#4f575f"/>
+    <rect x="604" y="64" width="52" height="12" fill="#f3f1e8"/>
+    <rect x="476" y="86" width="180" height="8" fill="#2d3339"/>
+  </g>
+
+  <text x="52" y="190" fill="#f3f1e8" font-family="'Courier New','Noto Sans SC','Microsoft YaHei',monospace" font-size="134" font-weight="900" letter-spacing="-12">ZG</text>
+  <rect x="334" y="112" width="322" height="8" fill="#f3f1e8"/>
+  <text x="336" y="164" fill="#a9b0b6" font-family="'Courier New','Noto Sans SC','Microsoft YaHei',monospace" font-size="23" font-weight="700" letter-spacing="3">CREATOR / 020</text>
+  <text x="336" y="202" fill="#f1cc14" font-family="'Courier New','Noto Sans SC','Microsoft YaHei',monospace" font-size="20" font-weight="700" letter-spacing="2">STATUS: DIRECTING</text>
+
+  <rect x="52" y="238" width="616" height="404" fill="#0b0e11" stroke="#4b535a" stroke-width="8"/>
+  <g shape-rendering="crispEdges" aria-label="原创像素导演人物和场记板">
+    <rect x="76" y="262" width="352" height="356" fill="#151a1f"/>
+    <path d="M76 286h352M76 334h352M76 382h352M76 430h352M76 478h352M76 526h352M76 574h352" stroke="#22282e" stroke-width="4"/>
+    <path d="M100 262v356M148 262v356M196 262v356M244 262v356M292 262v356M340 262v356M388 262v356" stroke="#22282e" stroke-width="4"/>
+
+    <rect x="166" y="318" width="120" height="24" fill="#20262b"/>
+    <rect x="142" y="342" width="168" height="96" fill="#272e34"/>
+    <rect x="166" y="342" width="120" height="96" fill="#d4a37c"/>
+    <rect x="190" y="366" width="24" height="24" fill="#11151a"/>
+    <rect x="238" y="366" width="24" height="24" fill="#11151a"/>
+    <rect x="190" y="414" width="72" height="12" fill="#9b604a"/>
+    <rect x="118" y="438" width="216" height="36" fill="#f3f1e8"/>
+    <rect x="142" y="474" width="168" height="120" fill="#2e9bd3"/>
+    <rect x="94" y="486" width="48" height="108" fill="#2e9bd3"/>
+    <rect x="310" y="486" width="48" height="108" fill="#2e9bd3"/>
+    <rect x="166" y="510" width="24" height="84" fill="#f3f1e8"/>
+    <rect x="262" y="510" width="24" height="84" fill="#f3f1e8"/>
+    <rect x="142" y="582" width="72" height="24" fill="#171b1f"/>
+    <rect x="238" y="582" width="72" height="24" fill="#171b1f"/>
+
+    <rect x="102" y="278" width="216" height="40" fill="#f3f1e8"/>
+    <path d="M102 278h40l28 40h-40zm80 0h40l28 40h-40zm80 0h40l16 22v18h-12z" fill="#11151a"/>
+    <rect x="102" y="318" width="216" height="12" fill="#dc3526"/>
+
+    <rect x="464" y="276" width="168" height="176" fill="#e8e5dc"/>
+    <rect x="480" y="292" width="136" height="32" fill="#11151a"/>
+    <path d="M480 292h28l24 32h-28zm56 0h28l24 32h-28zm56 0h24v32z" fill="#f1cc14"/>
+    <rect x="480" y="342" width="96" height="12" fill="#555d64"/>
+    <rect x="480" y="370" width="136" height="8" fill="#969b9d"/>
+    <rect x="480" y="394" width="112" height="8" fill="#969b9d"/>
+    <rect x="480" y="418" width="64" height="12" fill="#dc3526"/>
+    <rect x="552" y="418" width="24" height="12" fill="#f1cc14"/>
+    <rect x="584" y="418" width="32" height="12" fill="#2e9bd3"/>
+
+    <rect x="464" y="480" width="32" height="32" fill="#dc3526"/>
+    <rect x="504" y="480" width="112" height="8" fill="#4b535a"/>
+    <rect x="504" y="498" width="80" height="8" fill="#747c82"/>
+    <rect x="464" y="528" width="32" height="32" fill="#f1cc14"/>
+    <rect x="504" y="528" width="128" height="8" fill="#4b535a"/>
+    <rect x="504" y="546" width="96" height="8" fill="#747c82"/>
+    <rect x="464" y="576" width="32" height="32" fill="#2e9bd3"/>
+    <rect x="504" y="576" width="96" height="8" fill="#4b535a"/>
+    <rect x="504" y="594" width="128" height="8" fill="#747c82"/>
+  </g>
+
+  <rect x="52" y="674" width="616" height="8" fill="#f3f1e8"/>
+  <text x="52" y="758" fill="#f3f1e8" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC',sans-serif" font-size="70" font-weight="900" letter-spacing="6">张国熙</text>
+  <text x="56" y="802" fill="#899198" font-family="'Courier New','Noto Sans SC','Microsoft YaHei',monospace" font-size="20" font-weight="700" letter-spacing="4">ZHANG GUOXI / 2002</text>
+
+  <g font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC',sans-serif" font-weight="800">
+    <rect x="52" y="842" width="278" height="58" fill="#dc3526"/>
+    <text x="72" y="880" fill="#fffdf4" font-size="28" letter-spacing="3">AI 设计师</text>
+    <rect x="342" y="842" width="326" height="58" fill="#2e9bd3"/>
+    <text x="362" y="880" fill="#fffdf4" font-size="28" letter-spacing="3">AI 漫剧导演</text>
+  </g>
+
+  <rect x="52" y="930" width="8" height="72" fill="#3ba848"/>
+  <text x="80" y="962" fill="#f3f1e8" font-family="'Courier New','Noto Sans SC','Microsoft YaHei',monospace" font-size="25" font-weight="700" letter-spacing="3">RECORDING ARTS</text>
+  <text x="80" y="997" fill="#858d93" font-family="'Courier New','Noto Sans SC','Microsoft YaHei',monospace" font-size="17" font-weight="700" letter-spacing="2">IMAGE × SOUND × STORY</text>
+  <g aria-hidden="true">
+    <rect x="528" y="938" width="20" height="64" fill="#f3f1e8"/>
+    <rect x="556" y="938" width="8" height="64" fill="#f3f1e8"/>
+    <rect x="572" y="938" width="28" height="64" fill="#f3f1e8"/>
+    <rect x="608" y="938" width="12" height="64" fill="#f3f1e8"/>
+    <rect x="628" y="938" width="28" height="64" fill="#f3f1e8"/>
+  </g>
+</svg>
